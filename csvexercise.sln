@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "csvexercise", "csvexercise.pyproj", "{2C7F3D3D-D4BB-450F-8B92-28531AB67F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7F3D3D-D4BB-450F-8B92-28531AB67F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7F3D3D-D4BB-450F-8B92-28531AB67F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF376AA-C86E-4D2F-A8B0-EEC956A58840}
+	EndGlobalSection
+EndGlobal
